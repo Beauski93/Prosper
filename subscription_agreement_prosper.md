@@ -1,7 +1,7 @@
 ---
 title: Prosper - Provider Rebate Services Agreement V2
 tracked_title: Rebate Services Agreement
-description: "Anagram's Prosper associate agreement"
+description: "Anagram's Rebate Services Agreement"
 posted: 2021-11-09
 section: Legal
 sub_section: Agreements
